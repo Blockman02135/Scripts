@@ -7,8 +7,6 @@
  *
 */
 
-alert("qwe")
-
 // initialize markdown engine
 var markdownOptions = {
 	html: false,
