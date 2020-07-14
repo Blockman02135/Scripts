@@ -510,6 +510,11 @@ function send(data) {
     }
 }
 
+var b = document.createElement("button")
+b.innerHTML = "Send"
+b.onclick = function() {send("123")}
+document.body.append(b)
+
 var windowActive = true;
 var unread = 0;
 
