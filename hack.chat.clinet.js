@@ -1,3 +1,4 @@
+document.title = "Blockman_"
 /*
  *
  * NOTE: The client side of hack.chat is currently in development,
