@@ -52,7 +52,7 @@
             break;
           case '`':
               var fp = prompt("Fly Power", flypower);
-              if (!isNaN(fp)) flypower=fp
+              if (fp!=null) flypower=fp
               break;
       };
    });
