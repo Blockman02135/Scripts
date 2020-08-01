@@ -1,5 +1,5 @@
-alert("work!")
-﻿!function(a, b) {
+alert("work!");
+!function(a, b) {
     function c(a, b) {
         var c = b.x - a.x
           , d = b.z - a.z;
